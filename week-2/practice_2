@@ -1,0 +1,6 @@
+fn main()
+println!; // prints just a
+println!("hello ")
+println!("format{} arguments","some"); //prints format some arguments
+println!("My name is salama.Iam the classrep of stream 1", "saalama kassim jumbo")
+}
