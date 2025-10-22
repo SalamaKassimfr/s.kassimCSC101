@@ -9,7 +9,7 @@ fn main() {
     let average = sum / amounts.len() as f64;
 
     // Display results
-    println!("==== Chief Donatus and Sons Ltd Sales Record ====");
+    println!("==== Chief Donatus and Sons Ltd Sales Record ====");s
     println!("Total Sales Amount: ₦{:.2}", sum);
     println!("Average Sales Amount: ₦{:.2}", average);
 }
